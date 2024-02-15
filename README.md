@@ -44,3 +44,4 @@ notice how if you had a `letterFrequency(letter)` it'd work too.
 Finally, read thru all the files in `testdata/` and perform the text processing on
 each file. Capture all the output results into a file and post that as `ResultsOfProcessing.txt` in the repo.
 
+Take a look at Part Deux of this lab -> [Notes](Notes.md)
