@@ -3,6 +3,7 @@
 Python version of WordForWord - a series of text processing methods
 
 For the sake of this lab, words are not and do not have punctuation.
+So treat punctuation like whitespace.
 
 Four phases of text processing to do. Write a method for each one.
 
